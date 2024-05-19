@@ -1,0 +1,1 @@
+xst -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -ifn bit2it1lu.xst -ofn bit2it1lu.syr

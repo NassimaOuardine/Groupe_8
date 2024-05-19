@@ -1,0 +1,9 @@
+xst -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -ifn ALU.xst -ofn ALU.syr
+xst -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -ifn ALU.xst -ofn ALU.syr
+xst -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -ifn alu.xst -ofn alu.syr
+xst -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -ifn alu.xst -ofn alu.syr
+xst -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -ifn alu.xst -ofn alu.syr
+xst -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -ifn alu.xst -ofn alu.syr
+xst -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -ifn alu.xst -ofn alu.syr
+xst -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -ifn alu.xst -ofn alu.syr
+netgen -ise "C:/Xilinx/ProjetVhdl/ProjetVhdl" -intstyle ise -w -dir netgen/synthesis -ofmt verilog -sim alu.ngc alu_synthesis.v
